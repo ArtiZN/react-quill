@@ -4807,9 +4807,9 @@ quill-delta@^3.6.2:
     extend "^3.0.2"
     fast-diff "1.1.2"
 
-quill@ArtiZN/quill#1.3.7:
+quill@ArtiZN/quill#7367c77036103589857eefdd57f646d543182bbf:
   version "1.3.7"
-  resolved "https://codeload.github.com/ArtiZN/quill/tar.gz/df7fa89e5fb679a83378666896e1c69e62fb22e1"
+  resolved "https://codeload.github.com/ArtiZN/quill/tar.gz/7367c77036103589857eefdd57f646d543182bbf"
   dependencies:
     clone "^2.1.1"
     deep-equal "^1.0.1"
