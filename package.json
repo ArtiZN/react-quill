@@ -45,7 +45,7 @@
   "dependencies": {
     "@types/quill": "^1.3.10",
     "lodash": "^4.17.4",
-    "quill": "ArtiZN/quill#7367c77036103589857eefdd57f646d543182bbf"
+    "quill": "voxmedia/quill"
   },
   "peerDependencies": {
     "react": "^16.0.0",
